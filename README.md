@@ -74,4 +74,4 @@ then dinner is on me!
 
 Screenshot of the alignment indicating the insertion:
 
-<!-- Add screenshot here -->
+<img width="1336" height="1018" alt="image" src="https://github.com/user-attachments/assets/93cec60e-575e-4e16-b923-272c3e2ba6a5" />
